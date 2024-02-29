@@ -1,30 +1,22 @@
 ### Hi I'm Usman 👋
 
-I'm a 21-year-old developer based in Germany, and I'm passionate about crafting digital experiences. 
+I'm a 21-year-old developer based in Pakistan, and I'm passionate about crafting digital experiences. 
 
-- Check out my [website](https://www.miraya.tech/) to learn more about me.
-- Explore my [blog](https://mirayatech.hashnode.dev/?source=top_nav_blog_home) where I share insights and learnings.
-- Check out [VSCode Configuration](https://github.com/mirayatech/vscode-settings) for development optimization.
-- In my [Newsletter](https://mirayatech.substack.com/), I share my learnings and tips to become a better developer. 
+- Check out my [website](#) to learn more about me.
  
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
+**Frontend Development:** `Html` `CSS` `Bootstrap` `Javascript`
  
-**Version Control:** `Git` `GitLab` `Bitbucket`
+**Content Management System (CMS):** `WordPress`
 
-**Backend Development:** `Nest.js` `GraphQL` `Firebase` 
-
-**Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia`
-
-**Others:** `Storybook` `Zustand` `A11y` `Scrum` `Confluence` `Jira`
+**E-commerce Platform:** `Shopify` 
  
 ## ✨ Fun Facts 
 
-- Demon Slayer is my favorite anime.
-- As a kid, I wanted to be an astronaut.
-- I love using Mac after switching from Linux.
+- I love to play Games
+- I served as a professional Esports Player(Free Fire) from 2019 to 2021.
 
 ## 📫 Contact
 
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mirayaabrodi/). 
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/usman-ahmad-72965a279/). 
